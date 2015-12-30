@@ -24,9 +24,8 @@
     "tests"
   ],
   "dependencies": {
-    "react": "~0.14.1",
+    "react": "~0.14.4",
     "es6-shim": "~0.33.9",
-    "react-dom": "~0.1.0",
     "swipe-js": "~2.0.7"
   }
 }
